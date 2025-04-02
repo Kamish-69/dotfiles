@@ -81,3 +81,4 @@ alias flex='alacritty --class alacritty-bg --config-file ~/.config/hypr/alacritt
 alias anime='wal -q -i /home/kamish/output_image.png; /home/kamish/.last; sleep 0.1; ~/.config/waybar/launch.sh'
 #bind = $mainMod+ALT, K, exec, pkill -9 mpvpaper
 alias music='flex & /home/kamish/b.sh & echo "Playing random music" | lolcat'
+alias show='fastfetch'
